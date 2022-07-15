@@ -1,0 +1,4 @@
+python-docx   # https://snyk.io/advisor/python/python-docx  70/100
+streamlit     # https://snyk.io/advisor/python/streamlit    91/100
+watchdog      # https://snyk.io/advisor/python/watchdog     94/100
+ipykernel     # https://snyk.io/advisor/python/ipykernel    94/100
